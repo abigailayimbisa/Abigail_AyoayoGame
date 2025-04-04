@@ -1,0 +1,34 @@
+__ About the game __
+
+The Ayoayo game is similar to a traditional game played in my Country, Ghana called Oware.
+This game is played on a board with two rows of six pits and a store for each player. 
+Each pit starts with four seeds, making a total of 48 seeds in the game. 
+The goal is to capture more seeds than the opponent by the end of the game. 
+Ayoayo requires strategic thinking, quick calculations, and concentration to make the best possible moves.
+
+__ How the Game is Played __
+
+Each player has six pits and one store, meaning there are 12 pits and 2 stores in total. 
+The game is played in a counter-clockwise direction. A player selects any of their six pits, 
+picks up all the seeds from it, and distributes them one seed per pit in the rightward direction. 
+If the last seed lands in a non-empty pit, the player picks up all the seeds from that pit and continues playing. 
+This creates a chain reaction, leading to longer turns and requiring players to anticipate several moves ahead.
+
+__ Winning Strategy __ 
+
+To capture seeds, a player must place their last seed into an empty pit on their side. If this happens, the player captures:
+•	All the seeds in the opponent's pit directly opposite
+•	The one seed in their own pit
+This makes the number of captured seeds:
+(1+number of seeds in the opponent’s opposite pit) 
+The collected seeds are then moved to the player’s store.
+The game can end in a draw if both players collect 24 seeds each, or a player wins by accumulating at least 25 seeds.
+
+
+__ Game End Conditions __ 
+
+The game ends when one player's six pits are empty. 
+At this point, the winner is the player with the most seeds stored. 
+This means players must not only focus on capturing seeds but also avoid 
+leaving their side empty too early, as it could lead to an immediate loss.
+
