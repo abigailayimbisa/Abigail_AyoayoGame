@@ -18,11 +18,11 @@ I implemented the Ayoayo game using Python. The game logic is designed to follow
 •	A draw occurs if both players collect 24 seeds each.  
 •	A player continues to play if the last seed drops in a non-empty pit, he/she picks all the seeds and continues distributing.
 
-3.	How to Run the Game  
-Prerequisites  
-1. Install Python 3.10+ if not already installed.  
+3.	How to Run the Game
 
-4.	Steps to Play  
-1. Open a terminal (PowerShell, CMD, or VS Code Terminal).  
-2. Navigate to the project folder and run the main.py file
+download the code as a zip file from this repository 
+Install VSCode  if not already installed
+install the necessary extensions in VSCode
+Then upload the extracted folder from the inital zip file
+run main.py in the terminal
 
